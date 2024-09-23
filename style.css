@@ -34,7 +34,11 @@
     #pets {
         flex-wrap: wrap;
     }
+    /* footer{
+      font-size: smaller;
+    } */
   }
 footer {
   text-align: center;
+  font-size:smaller;
 }  
